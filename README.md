@@ -1,6 +1,6 @@
 # Farming Simulator 22 Dockerfile
 
-This project contains a Dockerfile for setting up a dedicated server for Farming Simulator 22, a game developed by Giants Software.
+This project contains a Dockerfile for setting up a dedicated server for [Farming Simulator 22](https://www.farming-simulator.com/about.php), a game developed by Giants Software.
 
 ## Prerequisites
 
